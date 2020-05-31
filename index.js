@@ -49,4 +49,4 @@ let { name, color, song, job, partner} = muppet;
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
 let {  k_color, k_job,  k_partner} = k_muppet;
-let { song_2 , songs_4} = k_muppet.k_album.the_muppet_movie;
+let { song_2 , song_4} = k_muppet.k_album.the_muppet_movie;
